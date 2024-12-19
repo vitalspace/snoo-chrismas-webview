@@ -1,3 +1,6 @@
+# Snoo christmas 
+It becomes difficult to manage the files in a webview project in devvit so the source code of the game is here: https://github.com/vitalspace/snoo-chrismas
+
 ## Inspiration  
 The inspiration came from my desire to combine a classic trivia game with the magic of Christmas. I wanted to create something simple yet visually appealing that could entertain players and bring a bit of festive spirit.  
 
